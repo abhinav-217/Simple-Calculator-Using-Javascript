@@ -1,0 +1,1 @@
+This is a simple Javascript Project just created to enhance my skill in javascript and practice DOM Manipulation|||||
